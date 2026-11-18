@@ -25,7 +25,7 @@ The two views are blended 75/25 into a centre and a spread, and each quantile is
 
 ## Backtest
 
-Leave-one-out over the 37 comparable launches with complete release-day curves in the kit's practice cases, scored with the contest's own pinball loss on the log scale: this model scores **0.384** overall, **0.235** on launches whose first hour was at least 20,000 viewers, and **0.174** on launches whose first hour was at least 100,000, versus the house baseline's 0.930 overall and 0.321 on the 20k+ launches. The previous entry scored 0.205388 on the practice cases against the house baseline's 0.387.
+Leave-one-out over the 37 comparable launches with complete release-day curves in the kit's practice cases, scored with the contest's own pinball loss on the log scale: this model scores **0.391** overall, **0.243** on launches whose first hour was at least 20,000 viewers, and **0.202** on launches whose first hour was at least 100,000, versus the house baseline's 0.930 overall and 0.321 on the 20k+ launches. The previous entry scored 0.205388 on the practice cases against the house baseline's 0.387.
 
 ## Files
 
